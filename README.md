@@ -5,7 +5,6 @@ This project analyzes millions of U.S. airline performance records using a scala
 
 ## Key Features
 - Built Hive tables for flights, airports, and carriers
-- Schema harmonization and data quality validation
 - Analytical queries to compute delay metrics
 - Identification of top delay-heavy airports and carriers
 
